@@ -1,5 +1,3 @@
-bash_script2.md
-
 near dev-deploy --wasmFile=res/sputnikdao_factory2.wasm;
 CONTRACT_ID="dev-1651738762809-54457981109302";
 echo $CONTRACT_ID;
